@@ -1,0 +1,15 @@
+
+body table{
+	background-color: red;
+}
+.head {
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+
+.head tr td input{
+	color: green;
+	font-size: 18px;
+}
+
